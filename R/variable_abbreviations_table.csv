@@ -1,0 +1,37 @@
+,,,,,
+SCCS Variable Number,SCCS Variable Name,Abbreviation Used In This Study,SCCS Variable Number,SCCS Variable Name,Abbreviation Used In This Study
+"Subsistence, Mobility, and Economic Variables",,,v833,Subsistence Economy: Dominant Mode,econ_dom?
+v1,Intercommunity Trade As Food Source,trade_food,v834,Subsistence Economy: Subsidiary Mode,econ_subsid?
+v3,Agriculture- Contribution To Local Food Supply,ag_contrib*,v858,Subsistence Type - Ecological Classification,subsis_ecolo??
+v5,Animal Husbandry- Contribution To Food Supply,herd_contrib*,v859,Resource Base,resource_base
+v6,Animals- Domesticated,herd_animals,v1122,Log10 Of Total Population,total_pop
+v7,Fishing- Contribution To Food Supply,fish_contrib*,v1123,Major Agricultural Staple,ag_staple1
+v8,Fish,fish_type,v1125,Second Agricultural Staple,ag_staple2
+v9,Hunting- Contribution To Food Supply,hunt_contrib*,v1127,Crop Type Plow-Positive Or -Negative,plow2
+v10,Animals Hunted,hunt_animals,v1128,Cropping Index (Rough Indicator Of Fallowing) For Major Crops,crop_index
+v11,Gathering- Contribution To Food Supply,gath_contrib*,,,
+v12,Gathered Foods,gath_foods,Environmental Variables,,
+v20,Food Storage,food_stor*,v183,Altitude In Meters,altitude*
+v61,Fixity Of Settlement,settle_fixity,v186,Mean Annual Temperature (?C),temperature
+v62,Compactness Of Settlement,settle_compactness,v189,Mean Annual Precipitation (mm),precip
+v63,Community Size,community_size,v196,Number Of Dry Months,num_dry_mon
+v64,Population Density,pop_density,v199,Number Of Frost Months,num_frost_mon
+v203,Dependence On Gathering,gath_depend*,v854,Niche Temperature (Approximate),niche_temp*
+v204,Dependence On Hunting,hunt_depend*,v855,Niche Rainfall (Approximate),niche_precip*
+v205,Dependence On Fishing,fish_depend*,v856,"Niches Adapted From William Goode, World Atlas",num_niches*
+v206,Dependence On Animal Husbandry,herd_depend*,v857,Climate Type,climate_type*
+v207,Dependence On Agriculture,ag_depend*,v1888,Number Of Habitats Within 100 Mile Radius,num_habitats*
+v232,Intensity Of Cultivation,cultiv_intens,v1889,Ocean Within 100 Miles?,ocean*
+v233,Major Crop Type,maj_crop,Non-Numbered,Latitude,abs_latitude?
+v234,Settlement Patterns,settle_pattern,Non-Numbered,Longitude,longitude
+v235,Mean Size Of Local Communities,community_size2,NA,NA,NPP?
+v243,Animals And Plow Cultivation,plow,,,
+v244,Predominant Type Of Animal Husbandry,herd_type,Cultural Variables,,
+v245,Milking Of Domestic Animals,milking,v200,Region,region*
+v246,Subsistence Economy,subs_econ?,v1859,Language Family,lang_fam
+v814,Importance Of Agriculture,ag_importance,v1860,Language Subfamily 1,lang_subfam1
+v815,Importance Of Domestic Animals,herd_importance,v1861,Language Subfamily 2,lang_subfam2
+v816,Importance Of Fishing,fish_importance,v1864,Concordance: Number Of Societies Within 100 Mile Radius,num_neighbors*
+v817,Importance Of Hunting,hunt_importance,v1858,Region,region*
+v818,Importance Of Gathering,gath_importance,v2001,Deep Islamization / Christianization,islam_xtian
+v819,Importance Of Trade,trade_importance,v2002,World Religions,religion
