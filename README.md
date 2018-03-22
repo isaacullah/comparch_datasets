@@ -20,6 +20,8 @@ Public datasets for teaching and learning about computational archaeology.
 
 - A growing collection of SciPy scripts for data analysis. Stay tuned!
 
+---
+
 ## Licensing
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />All datasets are released under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
